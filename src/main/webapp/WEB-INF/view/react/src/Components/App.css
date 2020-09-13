@@ -1,0 +1,7 @@
+.root {
+  display: 'flex'    
+}
+
+.grow {
+  flexGrow: 1,
+}
